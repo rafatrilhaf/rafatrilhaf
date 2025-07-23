@@ -34,10 +34,7 @@
 🛠️ **[prjSistema](https://github.com/rafatrilhaf/prjSistema)**  
 Sistema de Ordem de Serviço em Java com Swing e padrão DAO. Projeto didático para praticar POO e integração com banco de dados.
 
-📚 **[BibliotecaSenai](https://github.com/rafatrilhaf/BibliotecaSenai)**  
-Aplicação para gerenciamento de livros, autores e usuários. Foco em lógica, organização por camadas e CRUD.
-
-🌐 **[Site Semáforo IoT](https://github.com/rafatrilhaf/semaforo-iot)**  
+🌐 **[Site Semáforo IoT](https://github.com/rafatrilhaf/simulador-semaforo-js)**  
 Controle de semáforo físico com LED via plataforma Adafruit, integrando frontend e IoT em tempo real.
 
 ---
@@ -53,8 +50,8 @@ Controle de semáforo físico com LED via plataforma Adafruit, integrando fronte
 
 ### 📬 Contato
 
-- 📧 Email: *seuemail@gmail.com*  
-- 💼 [LinkedIn](https://www.linkedin.com/in/)**(se tiver, coloco aqui pra você)**  
+- 📧 Email: *rafaeltrilhaf@gmail.com*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/trilha-rafa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
