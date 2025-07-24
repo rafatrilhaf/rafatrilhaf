@@ -11,7 +11,7 @@
 ### 💡 Sobre mim
 
 - 🎓 Atualmente sou **jovem aprendiz no SENAI**, cursando **Análise e Desenvolvimento de Sistemas**
-- 💼 Trabalho na **Lubefer** e aplico o que aprendo no curso em projetos práticos
+- 💼 Sempre aplicando o que aprendo no curso em projetos práticos
 - 🧠 Gosto de resolver problemas com lógica, principalmente usando **Java**
 - 📚 Focado em estudar para o vestibular e crescer como desenvolvedor fullstack
 
