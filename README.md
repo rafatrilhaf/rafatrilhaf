@@ -29,6 +29,7 @@
 
 #### 🗄️ Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 #### ⚙️ Ferramentas e outros
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
