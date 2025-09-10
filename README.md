@@ -10,6 +10,27 @@
 
 ### 💡 Sobre mim
 
+- 🎓 Atualmente sou **jovem aprendiz no SENAI**, cursando **Desenvolvimento de Sistemas**
+- 💼 Coloco em prática o que aprendo no curso por meio de **projetos reais**
+- 🧠 Tenho interesse especial em **Java** e desenvolvimento **fullstack** ou **backend**
+- 📚 Estudando para o vestibular e me preparando para consolidar carreira como desenvolvedor
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<h1 align="center">👋 Olá! Eu sou o Rafael</h1>
+
+<p align="center">
+  💻 Estudante de Desenvolvimento de Sistemas  
+  📍 Brasil • 18 anos  
+  🚀 Apaixonado por tecnologia, sempre em busca de evoluir como desenvolvedor
+</p>
+
+---
+
+### 💡 Sobre mim
+
 - 🎓 Atualmente sou **jovem aprendiz no SENAI**, cursando **Análise e Desenvolvimento de Sistemas**
 - 💼 Coloco em prática o que aprendo no curso por meio de **projetos reais**
 - 🧠 Tenho interesse especial em **Java** e desenvolvimento **fullstack**
@@ -19,19 +40,20 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
-#### 💻 Linguagens e frameworks
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+#### 💻 Linguagens e Frameworks
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 #### 🗄️ Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-#### ⚙️ Ferramentas e outros
+#### ⚙️ Ferramentas e Outros
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 ![Swing](https://img.shields.io/badge/Swing-A8B9CC?style=flat&logo=java&logoColor=white)
@@ -43,7 +65,7 @@
 
 🐾 **[BarkBuddy](https://github.com/rafatrilhaf/barkbuddy)** – *TCC de Desenvolvimento de Sistemas*  
 Plataforma para conectar tutores e cães a cuidadores confiáveis.  
-Desenvolvido com **Java, Spring Boot, MySQL e frontend web**, este projeto foi minha principal realização acadêmica, unindo teoria e prática no desenvolvimento **fullstack**.
+Desenvolvido com **React Native, Java, Spring Boot, Firebase e frontend web**, este projeto foi minha principal realização acadêmica, unindo teoria e prática no desenvolvimento **fullstack**.
 
 🛠️ **[prjSistema](https://github.com/rafatrilhaf/prjSistema)**  
 Sistema de Ordem de Serviço em **Java Swing** com padrão DAO. Projeto didático para praticar **POO** e integração com banco de dados.
