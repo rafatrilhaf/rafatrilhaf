@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou o Rafael</h1>
 
 <p align="center">
-  💻 Estudante de Análise e Desenvolvimento de Sistemas  
+  💻 Estudante de Desenvolvimento de Sistemas  
   📍 Brasil • 18 anos  
   🚀 Apaixonado por tecnologia, sempre em busca de evoluir como desenvolvedor
 </p>
@@ -10,7 +10,7 @@
 
 ### 💡 Sobre mim
 
-- 🎓 Atualmente sou **jovem aprendiz no SENAI**, cursando **Análise e Desenvolvimento de Sistemas**
+- 🎓 Atualmente sou **jovem aprendiz no SENAI**, cursando **Desenvolvimento de Sistemas**
 - 💼 **Gerente de projeto** e desenvolvedor **full-stack** no TCC BarkBuddy
 - 🏆 **8 certificações técnicas** em Google Cloud Platform e Cisco
 - 🧠 Tenho interesse especial em **Java**, **Python** e desenvolvimento **backend/full-stack**
